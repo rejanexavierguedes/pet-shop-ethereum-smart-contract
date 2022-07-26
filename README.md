@@ -10,6 +10,12 @@
 
 ## Download do Ganache: https://trufflesuite.com/ganache/
 
+## compilar o projeto: truffle  compile 
+
+## migra projeto: truffle migrate 
+
+## rodar o projeto: npm run dev
+
 ## Instalação do Metamask: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
 ## https://github.com/Aryan2601/pet-shop  https://samsclass.info/141/proj/pCHgan.htm
